@@ -1,0 +1,11 @@
+operadores aritmeticos
+soma: +
+subtraçao: -
+multiplicação: *
+divisão: /
+resto da divisão ou modulo: %
+
+Ordem de precedência 
+
+1º (/, *, %)
+2º (+, -)

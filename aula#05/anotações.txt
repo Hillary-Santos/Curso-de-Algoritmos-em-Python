@@ -1,0 +1,23 @@
+Operadores lógicos:
+Tabela verdade
+
+Operador e (and)
+v e v -> v
+v e f -> f
+f e v -> f
+f e f -> f
+
+Operador ou (or)
+v ou v -> v
+v ou f -> v
+f ou v -> v
+f ou f -> f
+
+Operador não (not)
+não v -> f
+não f -> v
+
+Ordem de Precedência:
+1º E (AND)
+2º OU (OR)
+3º NÃO (NOT)

@@ -1,0 +1,12 @@
+Anotações:
+
+O que são variáveis?
+    Variáveis servem para guardar valores ou objetos, como se fossem caixas.
+
+Tipos de variáveis ou tipos primitivos:
+    - Inteiro => int
+    - Real => float
+    - Logico => boolean
+    - Caractere => String
+
+Para saber o tipo de um objeto ou variável, você pode usar a função type() do python, passando o objeto ou variável como parâmetro.

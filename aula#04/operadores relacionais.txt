@@ -1,0 +1,13 @@
+Operadores Relacionais
+
+maior: >
+menor: <
+igual: ==
+diferente: !=
+maior igual: >=
+menor igual: <=
+
+Ordem de Precedência:
+Todos os Operadores Relacionais possuem a mesma ordem de precedência.
+Ou seja serão lidos da esquerda para direita.
+

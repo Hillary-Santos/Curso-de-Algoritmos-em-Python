@@ -1,0 +1,11 @@
+Anotações:
+
+Entrada e Saída:
+
+Saída: 
+    comando de saída => print(...)
+    O "print()" imprime na tela uma informação qualquer.
+    
+Entrada:
+    Comando de entrada => variável = input(...) 
+    O "input()" retorna uma informação de entrada do teclado do PC.
