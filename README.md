@@ -11,29 +11,30 @@ Aula#01:
 
 Aula#02:
  - O que são variáveis.
- - Tipos primitivos de dados.
+ - Tipos primitivos de dados
  
 Aula#03:
- - Operadores aritméticos.
+ - Operadores aritméticos
  
 Aula#04:
- - Operadores relacionais. 
+ - Operadores relacionais
 
 Aula#05:
- - Operadores lógicos.
+ - Operadores lógicos
  
 Aula#06:
- - Desvios condicionais (Parte: 01) "if".
+ - Desvios condicionais (Parte: 01) "if"
  
 Aula#07
- - Desvios condicionais (Parte: 02) "else".
+ - Desvios condicionais (Parte: 02) "else"
 
 Aula#08:
- - Desvios condicionais (Parte 03) "estruturas condicionais aninhadas".
+ - Desvios condicionais (Parte 03) "estruturas condicionais aninhadas"
  
 Aula#09:
- - Desvios condicionais (Parte: 04) "else if". 
+ - Desvios condicionais (Parte: 04) "else if"
  
 Aula#10:
- - Projeto final.
+ - Projeto final
  
+<i>vitor</i>
