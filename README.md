@@ -6,7 +6,7 @@ Aula#00
  - O que são algoritmos e linguagem de programação
  - História do Python
 
-Aula#01:
+<a href="https://github.com/Hillary-Santos/Curso-de-Algoritmos-em-Python/tree/main/aula%2301">Aula#01:</a>
  - Entrada e Saída de dados
 
 Aula#02:
@@ -36,5 +36,3 @@ Aula#09:
  
 Aula#10:
  - Projeto final
- 
-<i>vitor</i>
