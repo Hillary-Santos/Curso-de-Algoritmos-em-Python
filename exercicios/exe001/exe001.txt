@@ -1,0 +1,13 @@
+Crie um programa que indique se um usuário é maior de idade.
+Algoritmo do programa: 
+1º Passo:
+Crie uma variável (idade) que recebe a idade de um usuário através de um (input()) -> (idade = input('Digite sua idade: ')).
+
+2º Passo:
+Converta a variável (idade) para inteiro, usando a função (int()) -> (idade = int(idade)).
+
+3º Passo:
+Faça a verificação logica da variável (idade), para saber se o usuário é maior de idade. E armazene o resultado na variável (maior de_idade) -> (maior de idade = idade == 18 or idade > 18).
+
+4º Passo:
+Crie uma saída usando a função (print()) -> print(f'Você é maior de idade: {maior_de_idade}').
