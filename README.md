@@ -9,17 +9,17 @@ Aula#00
 <a href="https://github.com/Hillary-Santos/Curso-de-Algoritmos-em-Python/tree/main/aula%2301">Aula#01:</a>
  - Entrada e Saída de dados
 
-Aula#02:
+<a href="https://github.com/Hillary-Santos/Curso-de-Algoritmos-em-Python/tree/main/aula%2302">Aula#02:</a>
  - O que são variáveis.
  - Tipos primitivos de dados
  
-Aula#03:
+<a href="https://github.com/Hillary-Santos/Curso-de-Algoritmos-em-Python/tree/main/aula%2303">Aula#03:</a>
  - Operadores aritméticos
  
-Aula#04:
+<a href="https://github.com/Hillary-Santos/Curso-de-Algoritmos-em-Python/tree/main/aula%2304">Aula#04:</a>
  - Operadores relacionais
 
-Aula#05:
+<a href="https://github.com/Hillary-Santos/Curso-de-Algoritmos-em-Python/tree/main/aula%2305">Aula#05:</a>
  - Operadores lógicos
  
 Aula#06:
