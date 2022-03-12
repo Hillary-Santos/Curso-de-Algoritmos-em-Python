@@ -1,0 +1,18 @@
+Par ou Impar
+
+1º Passo 
+Crie um "input()" para pegar um número digitado pelo usuário e armazena-ló na variável "num".
+EX => "num = input('Digite um número: ')"
+
+2º Passo
+Converta a variável "num" para inteiro.
+EX => "num = int(num)"
+
+3º Passo
+Crie uma variável chamada "parOuImpar", logo em seguida armazene o valor logico da verificação.
+OBS: Lembrando, o número só é par se o resto da divisão por 2 for igual a 0.
+EX: => "parOuImpar = num % 2 == 0"
+
+4º Passo e ultimo
+Crie uma saída para exibir o resultado.
+EX: => "print(f'O número {num} é par: {parOuImpar}')"
