@@ -1,0 +1,5 @@
+se condição for verdadeiro faça:
+    BLOCO DE EXECUÇÃO
+
+if condição:
+    BLOCO DE EXECUÇÃO
