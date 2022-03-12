@@ -22,7 +22,7 @@ Aula#00
 <a href="https://github.com/Hillary-Santos/Curso-de-Algoritmos-em-Python/tree/main/aula%2305">Aula#05:</a>
  - Operadores lógicos
  
-Aula#06:
+<a href='https://github.com/Hillary-Santos/Curso-de-Algoritmos-em-Python/tree/main/aula%2306'>Aula#06:</a>
  - Desvios condicionais (Parte: 01) "if"
  
 Aula#07
