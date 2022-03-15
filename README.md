@@ -25,7 +25,7 @@ Aula#00
 <a href='https://github.com/Hillary-Santos/Curso-de-Algoritmos-em-Python/tree/main/aula%2306'>Aula#06:</a>
  - Desvios condicionais (Parte: 01) "if"
  
-Aula#07
+<a href="https://github.com/Hillary-Santos/Curso-de-Algoritmos-em-Python/tree/main/aula%2307">Aula#07</a>
  - Desvios condicionais (Parte: 02) "else"
 
 Aula#08:
