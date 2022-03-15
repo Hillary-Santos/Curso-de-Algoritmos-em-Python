@@ -1,0 +1,27 @@
+se for verdade faça:
+    BLOCO DE ESTRUÇÃO
+ 
+EX:
+    var a = leia("Digite um número: ") <-> 2
+    var b = leia("Digite outro número: ") <-> 5
+    se a > b faça:
+        escreva("a é maior que b!")
+    se não:
+        escreva("a é menor que b!")
+Saida:
+    a é menor que b!
+
+Aula 07 else -> se não
+
+Pseudocódigo:
+    se for verdade faça:
+        BLOCO1 DE ESTRUÇÃO
+    se não:
+        BLOCO2 DE ESTRUÇÃO
+ 
+ Em Python:
+     if condição:
+         BLOCO1 DE ESTRUÇÃO
+     els:
+         BLOCO2 DE ESTRUÇÃO
+ 
