@@ -1,0 +1,24 @@
+Estruturas Condicionais Aninhadas
+
+EX 1:
+    se CONDIÇÃO VERDADE faça:
+        BLOCO1
+    senão:
+        se CONDIÇÃO VERDADE faça:
+            BLOCO2
+
+EX 2:
+    se CONDIÇÃO VERDADE faça:
+        se CONDIÇÃO VERDADE faça:     
+            BLOCO1
+    senão:
+       BLOCO2
+
+EX 3:
+    se CONDIÇÃO VERDADE faça:
+        BLOCO 1
+    senão:
+         se CONDIÇÃO VERDADE faça:     
+            BLOCO2
+         senão:
+            BLOCO3
